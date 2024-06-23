@@ -9,6 +9,7 @@ RTB is conducting Nmap scan on the target IP, adding the lab's domain to the Hos
 
 ### Installation
 ❀ git clone https://github.com/MichalApl/RTB.git
+
 ❀ sudo apt install feroxbuster
 
 ### Usage
