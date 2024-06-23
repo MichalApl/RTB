@@ -12,6 +12,10 @@ RTB is conducting Nmap scan on the target IP, adding the lab's domain to the Hos
 
 ❀ sudo apt install feroxbuster
 
+❀ cd RTB
+
+❀ chmod +x rtb.sh
+
 ### Usage
 ❀ ./rtb.sh [LAB-IP] [LAB-NAME]
 
