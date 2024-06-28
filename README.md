@@ -23,3 +23,4 @@ RTB is conducting Nmap scan on the target IP, adding the lab's domain to the Hos
 ### Usage
 ❀ ./rtb.sh [LAB-IP] [LAB-NAME]
 
+![image](https://github.com/MichalApl/RTB/assets/123867268/32d1c6b5-f0da-4dd7-846f-8d0ffb5256ac)
