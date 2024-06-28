@@ -1,5 +1,5 @@
 # RTB - Recon The Box
-❀  An automated recon tool for HTB  ❀
+An automated recon tool for HTB
 
 ****
 
