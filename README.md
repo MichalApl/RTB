@@ -7,12 +7,14 @@ RTB is conducting Nmap scan on the target IP, adding the lab's domain to the Hos
 
 ****
 
-⚠️ Note - The tool adds the domain to the Hosts file by extracting the domain from the Nmap output. In most cases, the domain name appears in the Nmap output, however, sometimes the domain name doesn't appear in the Nmap output. In this case, just add the lab's IP and domain name to the Hosts file manually and run the tool again.
+⚠️ Note - The tool adds the domain to the Hosts file by extracting the domain name from the Nmap output. In most cases, the domain name appears in the Nmap output, however, sometimes the domain name doesn't appear in the Nmap output. In this case, you'll need to add the lab's IP and domain name to the Hosts file manually and then run the tool again.
 
 ****
 
 ### Installation
 ❀ git clone https://github.com/MichalApl/RTB.git
+
+❀ sudo apt install seclists
 
 ❀ sudo apt install feroxbuster
 
